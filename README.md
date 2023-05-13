@@ -2,7 +2,7 @@
 
 ## Tutorial followed to setup everything
 
-[Link](https://medium.com/@hmalgewatta/setting-up-an-aws-ec2-instance-with-ssh-access-using-terraform-c336c812322f)
+[Setting Up an AWS EC2 instance with SSH access using Terraform](https://medium.com/@hmalgewatta/setting-up-an-aws-ec2-instance-with-ssh-access-using-terraform-c336c812322f)
 
 ## Generate ssh keys
 
